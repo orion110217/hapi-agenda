@@ -30,7 +30,7 @@
     "async": "^0.9.0",
     "joi": "^5.0.2",
     "lodash-node": "^2.4.1",
-    "mongoskin": "^1.3.2",
+    "mongoskin": "^1.3.20",
     "require-all": "^1.0.0"
   },
   "devDependencies": {
